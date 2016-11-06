@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\debug\\layout\\html5container.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\layout\\html5container.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\debug\\layout\\button_action_detail.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\layout\\button_action_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\debug\\layout\\poidetaildialog.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\layout\\poidetaildialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\debug\\layout\\poiactivity.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\layout\\poiactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\debug\\layout\\webviewnav.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\layout\\webviewnav.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\layout\\webview.xml"
+    }
+]

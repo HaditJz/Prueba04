@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\selector_web_forward.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\selector_web_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\selector_darker.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\selector_darker.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\button_detail_green.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\button_detail_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\button_detail_blue.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\button_detail_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\rating_drawable.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\rating_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\selector_web_back.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\selector_web_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\simple_button_background_selector.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\simple_button_background_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\divider.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\toastbackground.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\toastbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\default_video_poster.png",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\default_video_poster.png"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\release\\drawable\\progress_bar.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\res\\drawable\\progress_bar.xml"
+    }
+]

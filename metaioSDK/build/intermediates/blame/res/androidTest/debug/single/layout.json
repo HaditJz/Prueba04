@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\webview.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\poidetaildialog.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\poidetaildialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\webviewnav.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\webviewnav.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\html5container.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\html5container.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\poiactivity.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\poiactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\button_action_detail.xml",
+        "source": "C:\\Users\\usuario01\\Documents\\Prueba04\\metaioSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\button_action_detail.xml"
+    }
+]
